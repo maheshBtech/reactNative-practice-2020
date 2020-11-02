@@ -6,7 +6,6 @@ hey i want add a line and then i need to create a  new branch of the project
 after that i need to make a pull request.
 and then  i am going to merge the main project and branch
 
-yeah i think its done
-
+yeah i think i want ot write some thing new
 and there is another thing we need to do....
  thank you :)
