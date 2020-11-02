@@ -2,5 +2,7 @@ This is my first react native project which im building....
 The date i srarted learning this project is 23 10 2020..
 yeah it was a nice start
 I completed all the basice...
-hey i am going to try a pull request
+hey i want add a line and then i need to create a  new branch of the project
+after that i need to make a pull request.
+and then  i am going to merge the main project and branch
  thank you :)
