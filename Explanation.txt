@@ -1,0 +1,12 @@
+This is my first react native project which im building....
+The date i srarted learning this project is 23 10 2020..
+yeah it was a nice start
+I completed all the basice...
+hey i want add a line and then i need to create a  new branch of the project
+after that i need to make a pull request.
+and then  i am going to merge the main project and branch
+okey we will do it
+yeah i think i want ot write some thing new
+and there is another thing we need to do....
+okey wewill do it
+ thank you :)
